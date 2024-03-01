@@ -15,4 +15,4 @@ put your finger on the fingerprint module to exchange fingerprint data between
 the target and the fingerprint module to process this data.
 Serial communication between fingerprint module and stm32f401 over UART.
 
-## You can show the video in the video folder
+## You can watch the video in the video folder
